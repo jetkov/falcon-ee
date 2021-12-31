@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "falcon-lib")(type "KiCad")(uri "C:/Users/jetkov/Documents/KiCAD/falcon-ee/falcon-lib/falcon-lib.pretty")(options "")(descr ""))
+)
