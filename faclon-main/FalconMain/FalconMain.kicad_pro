@@ -215,19 +215,19 @@
       "duplicate_reference": "error",
       "duplicate_sheet_names": "error",
       "extra_units": "error",
-      "global_label_dangling": "warning",
+      "global_label_dangling": "error",
       "hier_label_mismatch": "error",
       "label_dangling": "error",
-      "lib_symbol_issues": "warning",
-      "multiple_net_names": "warning",
-      "net_not_bus_member": "warning",
+      "lib_symbol_issues": "error",
+      "multiple_net_names": "error",
+      "net_not_bus_member": "error",
       "no_connect_connected": "warning",
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
-      "similar_labels": "warning",
+      "similar_labels": "error",
       "unannotated": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
@@ -320,6 +320,18 @@
     [
       "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55",
       ""
+    ],
+    [
+      "1ef558ab-83de-4f3d-953b-0c230fb22557",
+      "Battery"
+    ],
+    [
+      "104d0e6c-1912-4264-aafc-eb7a241cf8f6",
+      "Low Power and Drivers"
+    ],
+    [
+      "0df025bf-3d30-4f6c-bcfb-a0d8c8aa1d90",
+      "High Power 5V1"
     ]
   ],
   "text_variables": {}
