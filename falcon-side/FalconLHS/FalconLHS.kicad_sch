@@ -844,7 +844,7 @@
   (symbol (lib_id "JetkovKiCADLib:XQA LED 1616 SMD") (at 125.73 64.77 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 945ecf06-a8ba-49f9-9a39-f83d76690957)
-    (property "Reference" "D?" (id 0) (at 127 67.31 0))
+    (property "Reference" "D2" (id 0) (at 127 67.31 0))
     (property "Value" "XQA LED 1616 SMD" (id 1) (at 127 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -892,7 +892,7 @@
   (symbol (lib_id "JetkovKiCADLib:XQA LED 1616 SMD") (at 125.73 80.01 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid af247ce9-4d45-4565-9f3d-f7c6954a6cff)
-    (property "Reference" "D?" (id 0) (at 127 82.55 0))
+    (property "Reference" "D3" (id 0) (at 127 82.55 0))
     (property "Value" "XQA LED 1616 SMD" (id 1) (at 127 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -978,7 +978,7 @@
   (symbol (lib_id "JetkovKiCADLib:XQA LED 1616 SMD") (at 134.62 71.12 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid d4945636-f1e7-482b-9078-24a2e696e7e3)
-    (property "Reference" "D?" (id 0) (at 133.2024 72.3591 90)
+    (property "Reference" "D4" (id 0) (at 133.2024 72.3591 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "XQA LED 1616 SMD" (id 1) (at 129.54 72.39 0)
@@ -1046,13 +1046,13 @@
       (reference "D1") (unit 1) (value "500mA") (footprint "")
     )
     (path "/945ecf06-a8ba-49f9-9a39-f83d76690957"
-      (reference "D?") (unit 1) (value "XQA LED 1616 SMD") (footprint "JetkovKiCADLib:XQ-A-LED")
+      (reference "D2") (unit 1) (value "XQA LED 1616 SMD") (footprint "JetkovKiCADLib:XQ-A-LED")
     )
     (path "/af247ce9-4d45-4565-9f3d-f7c6954a6cff"
-      (reference "D?") (unit 1) (value "XQA LED 1616 SMD") (footprint "JetkovKiCADLib:XQ-A-LED")
+      (reference "D3") (unit 1) (value "XQA LED 1616 SMD") (footprint "JetkovKiCADLib:XQ-A-LED")
     )
     (path "/d4945636-f1e7-482b-9078-24a2e696e7e3"
-      (reference "D?") (unit 1) (value "XQA LED 1616 SMD") (footprint "JetkovKiCADLib:XQ-A-LED")
+      (reference "D4") (unit 1) (value "XQA LED 1616 SMD") (footprint "JetkovKiCADLib:XQ-A-LED")
     )
     (path "/35248a03-290c-4093-81fc-ab98707d02dc"
       (reference "L1") (unit 1) (value "100uH") (footprint "")
