@@ -5114,6 +5114,10 @@
     (effects (font (size 2 2)) (justify left bottom))
     (uuid 30e5cdc3-25a7-4637-bd9c-113e07bd89cb)
   )
+  (text "pin number order dont match footprint" (at 31.75 207.01 0)
+    (effects (font (size 3 3) (thickness 0.6) bold) (justify left bottom))
+    (uuid 3c2bf179-47dd-4666-9d9b-9de04365ac22)
+  )
   (text "Phone" (at 81.28 157.48 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 42988199-7b84-4435-9188-958ff10f99b2)
@@ -8442,8 +8446,8 @@
     (path "/104d0e6c-1912-4264-aafc-eb7a241cf8f6/29e8b46b-d2af-4c2c-9784-fc1af996491e"
       (reference "#PWR0103") (unit 1) (value "+5V1") (footprint "")
     )
-    (path "/104d0e6c-1912-4264-aafc-eb7a241cf8f6/76d0515c-fe87-48ae-bc9d-65edfa56b987"
-      (reference "#PWR0104") (unit 1) (value "VBAT") (footprint "")
+    (path "/104d0e6c-1912-4264-aafc-eb7a241cf8f6/35301d6c-5fa6-471e-b47b-82e28f37f9f3"
+      (reference "#PWR0104") (unit 1) (value "VSYS") (footprint "")
     )
     (path "/104d0e6c-1912-4264-aafc-eb7a241cf8f6/d63c464d-d192-482e-a5a6-2b4a3996e9c3"
       (reference "#PWR0105") (unit 1) (value "VSYS_SW") (footprint "")
