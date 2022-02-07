@@ -388,7 +388,21 @@
     "meta": {
       "version": 2
     },
-    "net_colors": null
+    "net_colors": {
+      "+19V5": "rgb(255, 0, 0)",
+      "+3V3": "rgb(255, 150, 0)",
+      "+4V": "rgb(255, 150, 0)",
+      "+4V_SW": "rgb(255, 150, 0)",
+      "+5V1": "rgb(255, 0, 0)",
+      "/5V1_PHONE": "rgb(255, 0, 0)",
+      "/5V1_REAR": "rgb(255, 0, 0)",
+      "/ACDC_IN": "rgb(255, 0, 0)",
+      "GND": "rgb(0, 255, 240)",
+      "VBAT": "rgb(255, 0, 0)",
+      "VDC": "rgb(255, 0, 0)",
+      "VSYS": "rgb(255, 0, 0)",
+      "VSYS_SW": "rgb(255, 0, 0)"
+    }
   },
   "pcbnew": {
     "last_paths": {
