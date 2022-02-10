@@ -1041,7 +1041,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 648ff255-c150-4e89-913a-07f29557ce93)
   )
-  (text "Maximum Inductor Ripple Current\n--------------------------------\ndI_{L}=K_{I}(I_{LOAD})\n  ~=0.33(10)=3.3A\n\nMinimum Inductance\n--------------------------------\nL=[(V_{IN}-V_{OUT})/((dI_{L})(f_{SW}))][V_{OUT}/V_{IN}]\n =[(16-5.1)/((3.3)(600e3))][5.1/16]=1.755uH\n\nInductor Ripple Current with Selected Inductance\n-------------------------------- \ndI_{L}=[(16-5.1)/((2e-6)(600e3))][5.1/16]=2.895A\n K_{I}=2.895/10=0.29\n\ndI_{L-MIN}=[(12-5.1)/((2e-6)(600e3))][5.1/12]=2.444A\ndI_{L-MAX}=[(19-5.1)/((2e-6)(600e3))][5.1/19]=3.109A\n\nI_{SAT}>16A\nP_{CDR(LOSS-COIL)}=DCR(I_{LOAD}^2)"
+  (text "Maximum Inductor Ripple Current\n--------------------------------\ndI_{L}=K_{I}(I_{LOAD})\n  ~=0.33(10)=3.3A\n\nMinimum Inductance\n--------------------------------\nL=[(V_{IN}-V_{OUT})/((dI_{L})(f_{SW}))][V_{OUT}/V_{IN}]\n =[(16-5.1)/((3.3)(600e3))][5.1/16]=1.755uH\n\nInductor Ripple Current with Selected Inductance\n-------------------------------- \ndI_{L}=[(16-5.1)/((2e-6)(600e3))][5.1/16]=2.895A\n K_{I}=2.895/10=0.29\n\ndI_{L-MIN}=[(12-5.1)/((2e-6)(600e3))][5.1/12]=2.444A\ndI_{L-MAX}=[(19-5.1)/((2e-6)(600e3))][5.1/19]=3.109A\n\nI_{SAT}>16A\nP_{CDR(LOSS-COIL)}=DCR(I_{LOAD}^2)=(3e-3)(10^2)=0.3W"
     (at 29.21 138.43 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 78983ec4-7b0f-4161-a138-8b0834d76e37)
