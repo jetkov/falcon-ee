@@ -1,0 +1,19 @@
+Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\falcon-auxilliary\FalconRHS\FalconRHS-F_Cu.gtl'.
+Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\falcon-auxilliary\FalconRHS\FalconRHS-B_Cu.gbl'.
+Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\falcon-auxilliary\FalconRHS\FalconRHS-F_Silkscreen.gto'.
+Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\falcon-auxilliary\FalconRHS\FalconRHS-B_Silkscreen.gbo'.
+Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\falcon-auxilliary\FalconRHS\FalconRHS-F_Mask.gts'.
+Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\falcon-auxilliary\FalconRHS\FalconRHS-B_Mask.gbs'.
+Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\falcon-auxilliary\FalconRHS\FalconRHS-Edge_Cuts.gm1'.
+Created Gerber job file 'C:\Users\Alex\Documents\KiCAD\Falcon\falcon-auxilliary\FalconRHS\FalconRHS-job.gbrjob'.
+Info: Output directory 'C:\Users\Alex\Documents\KiCAD\Falcon\falcon-auxilliary\FalconRHS\Fabrication' created.
+Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\falcon-auxilliary\FalconRHS\Fabrication\FalconRHS-F_Cu.gtl'.
+Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\falcon-auxilliary\FalconRHS\Fabrication\FalconRHS-B_Cu.gbl'.
+Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\falcon-auxilliary\FalconRHS\Fabrication\FalconRHS-F_Silkscreen.gto'.
+Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\falcon-auxilliary\FalconRHS\Fabrication\FalconRHS-B_Silkscreen.gbo'.
+Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\falcon-auxilliary\FalconRHS\Fabrication\FalconRHS-F_Mask.gts'.
+Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\falcon-auxilliary\FalconRHS\Fabrication\FalconRHS-B_Mask.gbs'.
+Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\falcon-auxilliary\FalconRHS\Fabrication\FalconRHS-Edge_Cuts.gm1'.
+Created Gerber job file 'C:\Users\Alex\Documents\KiCAD\Falcon\falcon-auxilliary\FalconRHS\Fabrication\FalconRHS-job.gbrjob'.
+Info: Done.
+Info: Done.
