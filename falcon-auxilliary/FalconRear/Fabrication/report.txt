@@ -1,0 +1,9 @@
+Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\falcon-auxilliary\FalconRear\Fabrication\FalconRear-F_Cu.gtl'.
+Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\falcon-auxilliary\FalconRear\Fabrication\FalconRear-B_Cu.gbl'.
+Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\falcon-auxilliary\FalconRear\Fabrication\FalconRear-F_Silkscreen.gto'.
+Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\falcon-auxilliary\FalconRear\Fabrication\FalconRear-B_Silkscreen.gbo'.
+Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\falcon-auxilliary\FalconRear\Fabrication\FalconRear-F_Mask.gts'.
+Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\falcon-auxilliary\FalconRear\Fabrication\FalconRear-B_Mask.gbs'.
+Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\falcon-auxilliary\FalconRear\Fabrication\FalconRear-Edge_Cuts.gm1'.
+Created Gerber job file 'C:\Users\Alex\Documents\KiCAD\Falcon\falcon-auxilliary\FalconRear\Fabrication\FalconRear-job.gbrjob'.
+Info: Done.
