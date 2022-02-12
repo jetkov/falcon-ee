@@ -1,0 +1,19 @@
+Info: Output directory 'C:\Users\Alex\Documents\KiCAD\Falcon\falcon-auxilliary\FalconLHS\Fabrication\PCBWay Gerbers' created.
+Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\falcon-auxilliary\FalconLHS\Fabrication\PCBWay Gerbers\FalconLHS-F_Cu.gtl'.
+Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\falcon-auxilliary\FalconLHS\Fabrication\PCBWay Gerbers\FalconLHS-B_Cu.gbl'.
+Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\falcon-auxilliary\FalconLHS\Fabrication\PCBWay Gerbers\FalconLHS-F_Silkscreen.gto'.
+Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\falcon-auxilliary\FalconLHS\Fabrication\PCBWay Gerbers\FalconLHS-B_Silkscreen.gbo'.
+Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\falcon-auxilliary\FalconLHS\Fabrication\PCBWay Gerbers\FalconLHS-F_Mask.gts'.
+Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\falcon-auxilliary\FalconLHS\Fabrication\PCBWay Gerbers\FalconLHS-B_Mask.gbs'.
+Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\falcon-auxilliary\FalconLHS\Fabrication\PCBWay Gerbers\FalconLHS-Edge_Cuts.gm1'.
+Created Gerber job file 'C:\Users\Alex\Documents\KiCAD\Falcon\falcon-auxilliary\FalconLHS\Fabrication\PCBWay Gerbers\FalconLHS-job.gbrjob'.
+Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\falcon-auxilliary\FalconLHS\Fabrication\FalconLHS-F_Cu.gtl'.
+Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\falcon-auxilliary\FalconLHS\Fabrication\FalconLHS-B_Cu.gbl'.
+Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\falcon-auxilliary\FalconLHS\Fabrication\FalconLHS-F_Silkscreen.gto'.
+Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\falcon-auxilliary\FalconLHS\Fabrication\FalconLHS-B_Silkscreen.gbo'.
+Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\falcon-auxilliary\FalconLHS\Fabrication\FalconLHS-F_Mask.gts'.
+Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\falcon-auxilliary\FalconLHS\Fabrication\FalconLHS-B_Mask.gbs'.
+Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\falcon-auxilliary\FalconLHS\Fabrication\FalconLHS-Edge_Cuts.gm1'.
+Created Gerber job file 'C:\Users\Alex\Documents\KiCAD\Falcon\falcon-auxilliary\FalconLHS\Fabrication\FalconLHS-job.gbrjob'.
+Info: Done.
+Info: Done.
