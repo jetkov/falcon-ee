@@ -1,5 +1,5 @@
 Drill report for FalconLHS.kicad_pcb
-Created on 2022-02-11 23:29:14
+Created on 2022-02-12 00:13:38
 
 Copper Layer Stackup:
     =============================================================
@@ -20,5 +20,6 @@ Drill file 'FalconLHS-PTH.drl' contains
 Drill file 'FalconLHS-NPTH.drl' contains
     unplated through holes:
     =============================================================
+    T1  2.700mm  0.1063"  (3 holes)
 
-    Total unplated holes count 0
+    Total unplated holes count 3
