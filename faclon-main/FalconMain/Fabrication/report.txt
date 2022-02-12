@@ -1,16 +1,3 @@
-Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\faclon-main\FalconMain\FalconMain-F_Cu.gtl'.
-Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\faclon-main\FalconMain\FalconMain-In1_Cu.g2'.
-Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\faclon-main\FalconMain\FalconMain-In2_Cu.g3'.
-Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\faclon-main\FalconMain\FalconMain-B_Cu.gbl'.
-Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\faclon-main\FalconMain\FalconMain-F_Paste.gtp'.
-Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\faclon-main\FalconMain\FalconMain-B_Paste.gbp'.
-Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\faclon-main\FalconMain\FalconMain-F_Silkscreen.gto'.
-Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\faclon-main\FalconMain\FalconMain-B_Silkscreen.gbo'.
-Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\faclon-main\FalconMain\FalconMain-F_Mask.gts'.
-Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\faclon-main\FalconMain\FalconMain-B_Mask.gbs'.
-Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\faclon-main\FalconMain\FalconMain-Edge_Cuts.gm1'.
-Created Gerber job file 'C:\Users\Alex\Documents\KiCAD\Falcon\faclon-main\FalconMain\FalconMain-job.gbrjob'.
-Info: Output directory 'C:\Users\Alex\Documents\KiCAD\Falcon\faclon-main\FalconMain\Fabrication' created.
 Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\faclon-main\FalconMain\Fabrication\FalconMain-F_Cu.gtl'.
 Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\faclon-main\FalconMain\Fabrication\FalconMain-In1_Cu.g2'.
 Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\faclon-main\FalconMain\Fabrication\FalconMain-In2_Cu.g3'.
@@ -23,5 +10,4 @@ Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\faclon-main\FalconMain\Fabricat
 Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\faclon-main\FalconMain\Fabrication\FalconMain-B_Mask.gbs'.
 Plotted to 'C:\Users\Alex\Documents\KiCAD\Falcon\faclon-main\FalconMain\Fabrication\FalconMain-Edge_Cuts.gm1'.
 Created Gerber job file 'C:\Users\Alex\Documents\KiCAD\Falcon\faclon-main\FalconMain\Fabrication\FalconMain-job.gbrjob'.
-Info: Done.
 Info: Done.
